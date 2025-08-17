@@ -1,0 +1,12 @@
+moviepy>=2.2.1
+Pillow>=10.0.0
+gTTS>=2.3.2
+google-auth-oauthlib>=1.0.0
+google-auth>=2.22.0
+google-api-python-client>=2.95.0
+instagram-private-api>=1.6.0
+requests>=2.31.0
+wikipedia>=1.4.0
+schedule>=1.2.0
+python-dotenv>=1.0.0
+openai>=0.28.0  # For GPT integration in content generation
